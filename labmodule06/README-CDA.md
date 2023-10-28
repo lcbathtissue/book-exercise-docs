@@ -78,7 +78,7 @@ test case below (e.g. SensorSimAdapterManagerTest, DeviceDataManagerTest, etc.)
 ![SystemCpuUtilTaskTest](SystemCpuUtilTaskTest_labmodule06.png)
 
 - SystemMemUtilTaskTest
-![SystemMemUtilTaskTest](SystemMemUtilTaskTestL_labmodule06.png)
+![SystemMemUtilTaskTest](SystemMemUtilTaskTest_labmodule06.png)
 
 - DeviceDataManagerNoCommsTest
 ![DeviceDataManagerNoCommsTest](DeviceDataManagerNoCommsTest_labmodule06.png)
