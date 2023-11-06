@@ -37,12 +37,32 @@ NOTE: TA's will execute your unit tests. You only need to list each test case be
 since you need to ensure you haven't introduced regressions.
 
 - ConstrainedDeviceAppTest
+![ConstrainedDeviceAppTest](ConstrainedDeviceAppTest_labmodule06_CDA.png)
+
 - SystemPerformanceManagerTest
+![SystemPerformanceManagerTest](SystemPerformanceManagerTest_labmodule06_CDA.png)
+
 - ActuatorDataTest
+![ActuatorDataTest](ActuatorDataTest_labmodule06_CDA.png)
+
 - BaseIotDataTest
+![BaseIotDataTest](BaseIotDataTest_labmodule06_CDA.png)
+
 - DataUtilTest
+![DataUtilTest](DataUtilTest_labmodule06_CDA.png)
+
 - SensorDataTest
+![SensorDataTest](SensorDataTest_labmodule06_CDA.png)
+
 - SystemPerformanceDataTest
+![SystemPerformanceDataTest](SystemPerformanceDataTest_labmodule06_CDA.png)
+
+- HumidifierActuatorSimTaskTest
+![HumidifierActuatorSimTaskTest](HumidifierActuatorSimTaskTest_labmodule06_CDA.png)
+
+- HvacActuatorSimTaskTest
+![HvacActuatorSimTaskTest](HvacActuatorSimTaskTest_labmodule06_CDA.png)
+
 
 ### Integration Tests Executed
 
@@ -52,27 +72,79 @@ your code to ensure it's correct. As for the tests you execute, you only need to
 test case below (e.g. SensorSimAdapterManagerTest, DeviceDataManagerTest, etc.)
 
 - ConfigUtilTest
+![ConfigUtilTest](ConfigUtilTest_labmodule06_CDA.png)
+
 - SystemCpuUtilTaskTest
+![SystemCpuUtilTaskTest](SystemCpuUtilTaskTest_labmodule06_CDA.png)
+
 - SystemMemUtilTaskTest
+![SystemMemUtilTaskTest](SystemMemUtilTaskTest_labmodule06_CDA.png)
+
 - DeviceDataManagerNoCommsTest
-- DataIntegrationTest
+![DeviceDataManagerNoCommsTest](DeviceDataManagerNoCommsTest_labmodule06_CDA.png)
+
 - ActuatorEmulatorManagerTest
+![ActuatorEmulatorManagerTest](ActuatorEmulatorManagerTest_labmodule06_CDA.png)
+
 - HumidifierEmulatorTaskTest
+![HumidifierEmulatorTaskTest](HumidifierEmulatorTaskTest_labmodule06_CDA.png)
+The "fcntl" module used is built-in and only available on Unix-like operating systems.
+
 - HumidityEmulatorTaskTest
+![HumidityEmulatorTaskTest](HumidityEmulatorTaskTest_labmodule06_CDA.png)
+The "fcntl" module used is built-in and only available on Unix-like operating systems.
+
 - HvacEmulatorTaskTest
+![HvacEmulatorTaskTest](HvacEmulatorTaskTest_labmodule06_CDA.png)
+The "fcntl" module used is built-in and only available on Unix-like operating systems.
+
 - LedDisplayEmulatorTaskTest
+![LedDisplayEmulatorTaskTest](LedDisplayEmulatorTaskTest_labmodule06_CDA.png)
+The "fcntl" module used is built-in and only available on Unix-like operating systems.
+
 - PressureEmulatorTaskTest
+![PressureEmulatorTaskTest](PressureEmulatorTaskTest_labmodule06_CDA.png)
+The "fcntl" module used is built-in and only available on Unix-like operating systems.
+
 - SenseHatEmulatorQuickTest
+![SenseHatEmulatorQuickTest](SenseHatEmulatorQuickTest_labmodule06_CDA.png)
+The "fcntl" module used is built-in and only available on Unix-like operating systems.
+
 - SensorEmulatorManagerTest
+![SensorEmulatorManagerTest](SensorEmulatorManagerTest_labmodule06_CDA.png)
+
 - TemperatureEmulatorTaskTest
+![TemperatureEmulatorTaskTest](TemperatureEmulatorTaskTest_labmodule06_CDA.png)
+The "fcntl" module used is built-in and only available on Unix-like operating systems.
+
 - DeviceDataManagerCallbackTest
+![DeviceDataManagerCallbackTest](DeviceDataManagerCallbackTest_labmodule06_CDA.png)
+
 - DeviceDataManagerIntegrationTest
+![DeviceDataManagerIntegrationTest](DeviceDataManagerIntegrationTest_labmodule06_CDA.png)
+
 - DeviceDataManagerWithCommsTest
+![DeviceDataManagerWithCommsTest](DeviceDataManagerWithCommsTest_labmodule06_CDA.png)
+
 - DeviceDataManagerWithMqttClientOnlyTest
+![DeviceDataManagerWithMqttClientOnlyTest](DeviceDataManagerWithMqttClientOnlyTest_labmodule06_CDA.png)
+
 - CoapClientConnectorTest
+![CoapClientConnectorTest](CoapClientConnectorTest_labmodule06_CDA.png)
+
 - CoapClientPerformanceTest
+![CoapClientPerformanceTest](CoapClientPerformanceTest_labmodule06_CDA.png)
+
 - CoapServerAdapterTest
+![CoapServerAdapterTest](CoapServerAdapterTest_labmodule06_CDA.png)
+
 - MqttClientConnectorTest
+![MqttClientConnectorTest](MqttClientConnectorTest_labmodule06_CDA.png)
+
 - MqttClientPerformanceTest
+![MqttClientPerformanceTest](MqttClientPerformanceTest_labmodule06_CDA.png)
+
+- ActuatorAdapterManagerTest
+![ActuatorAdapterManagerTest](ActuatorAdapterManagerTest_labmodule06_CDA.png)
 
 EOF.

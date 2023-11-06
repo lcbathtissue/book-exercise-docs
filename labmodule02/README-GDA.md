@@ -36,14 +36,36 @@ NOTE: TA's will execute your unit tests. You only need to list each test case be
 (e.g. ConfigUtilTest, DataUtilTest, etc). Be sure to include all previous tests, too,
 since you need to ensure you haven't introduced regressions.
 
-- GatewayDeviceAppTest
-- SystemPerformanceManagerTest
 - ActuatorDataTest
+![ActuatorDataTest](ActuatorDataTest_labmodule07_GDA.png)
+
 - BaseIotDataTest
+![BaseIotDataTest](BaseIotDataTest_labmodule07_GDA.png)
+
+- ConfigUtilTest
+![ConfigUtilTest](ConfigUtilTest_labmodule07_GDA.png)
+
 - DataUtilTest
+![DataUtilTest](DataUtilTest_labmodule07_GDA.png)
+
+- ResourceNameTest
+![ResourceNameTest](ResourceNameTest_labmodule07_GDA.png)
+
 - SensorDataTest
+![SensorDataTest](SensorDataTest_labmodule07_GDA.png)
+
+- SimpleCertManagementUtilTest
+![SimpleCertManagementUtilTest](SimpleCertManagementUtilTest_labmodule07_GDA.png)
+
+- SystemCpuUtilTaskTest
+![SystemCpuUtilTaskTest](SystemCpuUtilTaskTest_labmodule07_GDA.png)
+
+- SystemMemUtilTaskTest
+![SystemMemUtilTaskTest](SystemMemUtilTaskTest_labmodule07_GDA.png)
+
 - SystemPerformanceDataTest
-- SystemStateDataTest
+![SystemPerformanceDataTest](SystemPerformanceDataTest_labmodule07_GDA.png)
+
 
 ### Integration Tests Executed
 
@@ -52,12 +74,49 @@ some exceptions (such as your cloud connectivity tests). In such cases, they'll 
 your code to ensure it's correct. As for the tests you execute, you only need to list each
 test case below (e.g. SensorSimAdapterManagerTest, DeviceDataManagerTest, etc.)
 
-- ConfigUtilTest
-- ResourceNameTest 
-- SystemCpuUtilTaskTest
-- SystemMemUtilTaskTest
-- DeviceDataManagerNoCommsTest
-- PersistenceClientAdapterTest
+- CloudClientConnectorTest
+![CloudClientConnectorTest](CloudClientConnectorTest_labmodule07_GDA.png)
+
+- CoapClientConnectorTest
+![CoapClientConnectorTest](CoapClientConnectorTest_labmodule07_GDA.png)
+
+- CoapClientPerformanceTest
+![CoapClientPerformanceTest](CoapClientPerformanceTest_labmodule07_GDA.png)
+
+- CoapClientToServerConnectorTest
+![CoapClientToServerConnectorTest](CoapClientToServerConnectorTest_labmodule07_GDA.png)
+
+- CoapServerGatewayTest
+![CoapServerGatewayTest](CoapServerGatewayTest_labmodule07_GDA.png)
+
 - DataIntegrationTest
+![DataIntegrationTest](DataIntegrationTest_labmodule07_GDA.png)
+
+- DeviceDataManagerNoCommsTest
+![DeviceDataManagerNoCommsTest](DeviceDataManagerNoCommsTest_labmodule07_GDA.png)
+
+- DeviceDataManagerWithCommsTest
+![DeviceDataManagerWithCommsTest](DeviceDataManagerWithCommsTest_labmodule07_GDA.png)
+
+- GatewayDeviceAppTest
+![GatewayDeviceAppTest](GatewayDeviceAppTest_labmodule07_GDA.png)
+
+- MqttClientConnectorTest
+![MqttClientConnectorTest](MqttClientConnectorTest_labmodule07_GDA.png)
+
+- MqttClientControlPacketTest
+![MqttClientControlPacketTest](MqttClientControlPacketTest_labmodule07_GDA.png)
+
+- MqttClientPerformanceTest
+![MqttClientPerformanceTest](MqttClientPerformanceTest_labmodule07_GDA.png)
+
+- PersistenceClientAdapterTest
+![PersistenceClientAdapterTest](PersistenceClientAdapterTest_labmodule07_GDA.png)
+
+- SmtpClientConnectorTest
+![SmtpClientConnectorTest](SmtpClientConnectorTest_labmodule07_GDA.png)
+
+- SystemPerformanceManagerTest
+![SystemPerformanceManagerTest](SystemPerformanceManagerTest_labmodule07_GDA.png)
 
 EOF.
